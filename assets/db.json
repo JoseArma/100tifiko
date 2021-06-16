@@ -1,0 +1,56 @@
+{
+  "Guerreros Z": [
+    {
+      "id": 1,
+      "nombre": "Goku",
+      "planeta": "Sayayin"
+    },
+    {
+      "id": 2,
+      "nombre": "Vegeta",
+      "planeta": "Sayayin"
+    },
+    {
+      "id": 3,
+      "nombre": "Picollo",
+      "planeta": "Namek"
+    },
+    {
+      "id": 4,
+      "nombre": "Krilin",
+      "planeta": "Tierra"
+    },
+    {
+      "id": 5,
+      "nombre": "Tenchin",
+      "planeta": "Tierra"
+    }
+  ],
+  "Villanos": [
+    {
+      "id": 1,
+      "nombre": "Freezer",
+      "planeta": "Freza"
+    },
+    {
+      "id": 2,
+      "nombre": "Cell",
+      "planeta": "Tierra"
+    },
+    {
+      "id": 3,
+      "nombre": "Raditz",
+      "planeta": "Sayayin"
+    },
+    {
+      "id": 4,
+      "nombre": "Androide 17",
+      "planeta": "Tierra"
+    },
+    {
+      "id": 5,
+      "nombre": "Androide 18",
+      "planeta": "Tierra"
+    }
+  ]
+}
